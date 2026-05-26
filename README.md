@@ -1,5 +1,7 @@
 # AI Career Tools Workshop
 
+**Live:** https://yuliabrusova85-ship-it.github.io/generic-career-tool/
+
 A single-file HTML workshop simulator that teaches students how to use AI responsibly in their job search. No login, no server, no API key — works in any browser and saves progress locally.
 
 ## Usage
